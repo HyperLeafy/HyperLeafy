@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @HyperLeafy
-- 👀 I’m mainly interested in software development and cyber security...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on any open sourece software or make documentation for the same ...
-- 📫 if someone wants to talk you can message me at twitter https://x.com/L_04013 ...
+- 👀 I’m passionate about **software development** and **cybersecurity**
+- 🌱 I’m currently learning **C++, SDL/OpenGL for graphics**, and **network security stuff**
+- 💞️ I’m looking to collaborate on **open-source projects** or contribute to **documentation**
+- 📫 Feel free to reach out to me on Twitter: [@L_04013](https://x.com/L_04013)
 
-<!---
-HyperLeafy/HyperLeafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+✨ I enjoy building tools, exploring new tech, and turning ideas into practical projects.  
